@@ -9,7 +9,8 @@ paginate: true
 ---
 
 <!-- _class: lead -->
-<!-- _backgroundImage: url('https://i.pinimg.com/736x/9a/32/f7/9a32f7530dd5f70b32d89b0f7381e372.jpg') -->
+<!-- _backgroundImage: url('back.svg') -->
+<!-- _color: white -->
  
 ## Spatio-temporal Clustering for Geographic Events <!-- fit -->
 #### Prepared by Evgeny Noi
